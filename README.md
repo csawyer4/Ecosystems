@@ -1,2 +1,2 @@
-# Lab-5
+# Ecosystems
 lab 5 repository
